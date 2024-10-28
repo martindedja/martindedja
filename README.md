@@ -5,3 +5,5 @@
 ## ☄️ Github Streaks
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martindedja&theme=dark)](https://git.io/streak-stats)
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=martindedja)
