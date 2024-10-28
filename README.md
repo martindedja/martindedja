@@ -5,6 +5,3 @@
 ## ☄️ Github Streaks
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martindedja&theme=dark)](https://git.io/streak-stats)
-
-
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/martindedja&theme=dark)](https://git.io/awesome-stats-card)
